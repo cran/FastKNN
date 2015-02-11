@@ -1,0 +1,7 @@
+7bd68dcdb9ed481f49001343278075a4 *DESCRIPTION
+f49b2de23b90857430225219c1c44c83 *NAMESPACE
+be0105619e27b5409165bb47d259dd18 *R/FastKNN.R
+20206021aaa5a087f414888dbcda4de1 *man/Distance_for_KNN_test.Rd
+b5f6bd11272ff0788049f8a149bed836 *man/k.nearest.neighbors.Rd
+e2939031df2f8ed26baa067d8c468e36 *man/knn_test_function.Rd
+c8cfa48491febd3ce87503852dcaedd5 *man/knn_training_function.Rd
